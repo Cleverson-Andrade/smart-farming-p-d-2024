@@ -21,4 +21,4 @@ Este projeto apresenta uma análise avançada de dados de agricultura inteligent
 - [Relatório de Alerta de Campo](alerta_fitossanitario_2024.csv): Recorte estratégico para ações imediatas em campo.
 
 ---
-*Projeto desenvolvido como parte da preparação técnica para atuação em Ciência de Dados no Agronegócio (Fevereiro/2026).*
+*Projeto desenvolvido como parte da preparação técnica para atuação em Ciência de Dados.*

@@ -16,7 +16,7 @@ Este projeto apresenta uma análise avançada de dados de agricultura inteligent
 
 ## 📂 Estrutura do Repositório
 
-- [Notebook de Análise](Cópia_de_Untitled33.ipynb): Código completo documentado.
+- [Notebook de Análise](Smart_Farming_Analysis_2024.ipynb): Código completo documentado.
 - [Dataset Final Tratado](Smart_Farming_2024_Final.csv): Base de dados limpa e com novas métricas.
 - [Relatório de Alerta de Campo](alerta_fitossanitario_2024.csv): Recorte estratégico para ações imediatas em campo.
 
